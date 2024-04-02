@@ -1,0 +1,8 @@
+# Use o Jekyll para processar arquivos markdown
+markdown: kramdown
+
+# Permitir extensões de arquivo markdown
+permalink: pretty
+
+# Especifique a página inicial
+home: /index.md
