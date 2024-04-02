@@ -49,9 +49,6 @@ extra_css:
   - stylesheets/styles.css
 
 nav:
-  - home: index.md
+  - Home: index.md
+  - Page1: page1.md
 
-
-
-plugins:
-  - search
