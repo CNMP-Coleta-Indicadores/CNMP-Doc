@@ -36,6 +36,5 @@ A documentação local poderá ser acessada por: http://127.0.0.1:8000/ ou http:
 
 
 ## Licença
-<img src="https://github.com/fga-eps-mds/2023-2-GEROcuidado-Doc/assets/51385738/1f6a7d6f-e8e1-42aa-b70e-819359a6114e" title="Divisor" style="max-height:60px; width:auto; display:block;">
 
 [MIT](./LICENSE)
