@@ -1,7 +1,7 @@
 site_name: "CNMP-Doc"
 
 repo_name: "CNMP-Doc"
-repo_url: "https://github.com/CNMP-Coleta-Indicadores/CNMP-Doc"
+repo_url: "https://cnmp-coleta-indicadores.github.io/CNMP-Doc/"
 
 theme:
   name: "material"
