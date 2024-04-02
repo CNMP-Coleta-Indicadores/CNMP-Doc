@@ -1,7 +1,8 @@
-site_name: "CNMP-Doc"
-
-repo_name: "CNMP-Doc"
+site_name: CNMP-Doc
+repo_name: CNMP-Doc
 site_url: "https://cnmp-coleta-indicadores.github.io/CNMP-Doc/"
+
+repo_url: https://github.com/CNMP-Coleta-Indicadores
 
 theme:
   name: "material"
@@ -50,5 +51,6 @@ extra_css:
 
 nav:
   - Home: index.md
-  - Page1: page1.md
+
+  
 
